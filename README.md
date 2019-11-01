@@ -23,7 +23,7 @@ We combine all components of our model in a single python file. We run our code 
 ```
 python GMVAR_demo.py
 ```
-The demo
+The demo loads the MHAD dataset and evaluated on single(missing)-view and multi-view settings. "RGB-D" is the multi-view performance. "RGB" is the single RGB view performance. "Depth" is the single depth view performance.
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
@@ -39,7 +39,7 @@ Please cite our paper if you like or use our work for your research, thank you v
 @inproceedings{GMVAR_Lichen,
   title={Generative Multi-View Human Action Recognition},
   author={Wang, Lichen and Ding, Zhengming and Tao, Zhiqiang and Liu, Yunyu and Fu, Yun},
-  booktitle={Proc. IEEE International Conference on Computer Vision},
+  booktitle={proceedings of IEEE International Conference on Computer Vision},
   year={2019},
   organization={}
 }
