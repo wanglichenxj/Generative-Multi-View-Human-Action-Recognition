@@ -16,8 +16,14 @@ In this work, we propose a Generative Multi-View Action Recognition (GMVAR) fram
 
 ## Code & datasets
 ### Datasets
-The datasets utilized in our experiments are provided in this repository. They are UWA dataset, MHAD dataset and DHA dataset.
+The datasets utilized in our experiments are provided in this repository. They are UWA dataset, MHAD dataset and DHA dataset. The RGB and depth features are extracted and saved in the folder ./action_data. It can be extracted and arranged by the code: dataset_loader.py. Other formats of multi-view data could also be evaluated.
 
+### Running the code
+We combine all components of our model in a single python file. We run our code in Anaconda environment. We use Tensorflow and please see the code for the detailed package information. After config the environment, input the command below for the demo:
+'''
+python GMVAR_demo.py
+'''
+The demo
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
@@ -30,7 +36,7 @@ Welcome to send us Emails if you have any questions about the code and our work 
 ## Citation
 Please cite our paper if you like or use our work for your research, thank you very much!
 ```
-@inproceedings{VCDN_lichen1,
+@inproceedings{GMVAR_Lichen,
   title={Generative Multi-View Human Action Recognition},
   author={Wang, Lichen and Ding, Zhengming and Tao, Zhiqiang and Liu, Yunyu and Fu, Yun},
   booktitle={Proc. IEEE International Conference on Computer Vision},
