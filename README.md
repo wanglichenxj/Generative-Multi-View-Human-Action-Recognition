@@ -20,9 +20,9 @@ The datasets utilized in our experiments are provided in this repository. They a
 
 ### Running the code
 We combine all components of our model in a single python file. We run our code in Anaconda environment. We use Tensorflow and please see the code for the detailed package information. After config the environment, input the command below for the demo:
-'''
+```
 python GMVAR_demo.py
-'''
+```
 The demo
 
 ## Authors
