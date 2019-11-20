@@ -37,11 +37,11 @@ Welcome to send us Emails if you have any questions about the code and our work 
 Please cite our paper if you like or use our work for your research, thank you very much!
 ```
 @inproceedings{GMVAR_Lichen,
-  title={Generative Multi-View Human Action Recognition},
+  title={Generative multi-view human action recognition},
   author={Wang, Lichen and Ding, Zhengming and Tao, Zhiqiang and Liu, Yunyu and Fu, Yun},
-  booktitle={proceedings of IEEE International Conference on Computer Vision},
-  year={2019},
-  organization={}
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={6212--6221},
+  year={2019}
 }
 ```
 
