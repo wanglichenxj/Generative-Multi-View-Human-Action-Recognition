@@ -1,5 +1,7 @@
 # Generative Multi-View Human Action Recognition
-This repository contains code for our International Conference on Computer Vision (ICCV) 2019 paper: [Generative Multi View Human Action Recognition](https://github.com/wanglichenxj/Generative-Multi-View-Human-Action-Recognition/blob/master/representation/ICCV19_MulitView_ActionRecognition.pdf) (GMVAR). 
+This repository contains code for our International Conference on Computer Vision (ICCV) 2019 paper: [Generative Multi View Human Action Recognition](https://github.com/wanglichenxj/Generative-Multi-View-Human-Action-Recognition/blob/master/representation/ICCV19_MulitView_ActionRecognition.pdf) (GMVAR).
+
+For quick understanding of our work, please also see the [video](https://www.youtube.com/watch?v=8oUPyhwzIDo) which is the presentation in ICCV2019. In addition, Mr. Andre in UCF CRCV group also have a [video](https://www.youtube.com/watch?v=5-AyiRu6lLA) presentation for introducing our work. Feel free to contact us if you have any more questions.
 
 ## Introduction
 <div align="center">
