@@ -1,5 +1,5 @@
 # =====================
-# Adaptive Graph Guided Embedding for Multi-label Annotation (AG2E)
+# Generative Multi-View Human Action Recognition
 # =====================
 # Author: Lichen Wang, Yunyu Liu
 # Date: Mar, 2019
